@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Pages 个人网站"
+  short_description: "从真实建站过程复用双语个人主页、媒体处理、互动组件与上线验证"
+  default_prompt: "使用 $github-pages-personal-site 帮我搭建或完善个人主页，按需加入双语、深浅主题、相册、校园地图、阅读书架和歌单，并验证 GitHub Pages 发布。"
